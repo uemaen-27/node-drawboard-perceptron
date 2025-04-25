@@ -1,2 +1,0 @@
-D:\CSharpRepo\ReactPerceptron\ReactPerceptron\obj\Debug\reactperceptron.esproj.SuggestedBindingRedirects.cache
-D:\CSharpRepo\ReactPerceptron\ReactPerceptron\obj\Debug\reactperceptron.esproj.CoreCompileInputs.cache
